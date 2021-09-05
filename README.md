@@ -310,4 +310,6 @@ References:
 2. https://www.baeldung.com/spring-security-check-user-role
 3. https://www.baeldung.com/spring-security-method-security
 4. https://www.baeldung.com/role-and-privilege-for-spring-security-registration
+5. https://docs.spring.io/spring-security/site/docs/4.2.0.M1/reference/html/jc.html 
+6. https://developer.okta.com/blog/2019/06/20/spring-preauthorize
 
